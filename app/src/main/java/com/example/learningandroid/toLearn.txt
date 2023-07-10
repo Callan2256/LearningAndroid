@@ -1,0 +1,20 @@
+// ** //
+
+Things to learn more about:
+
+Columns
+Rows
+Layouts
+
+Lists
+Input / Output
+Files / File IO
+
+Object creation
+Object Syntax
+
+Colour themes
+Settings
+Permissions
+
+Installation file
